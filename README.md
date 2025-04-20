@@ -1,3 +1,3 @@
-# Rafael
+# Welcome!
 
-projects of Senai and USCS
+ my projects of Senai and USCS
